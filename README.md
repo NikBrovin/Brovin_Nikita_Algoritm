@@ -1,1 +1,1 @@
-# Brovin_Nikita_Algoritm
+Я хотел бы изучить такие языки программирования как python, c#, JavaScript, css, из тех что знаю только html на начальном уровне 
